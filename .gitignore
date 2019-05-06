@@ -1,0 +1,6 @@
+#Files to be ignored for tracking goes here
+
+Admin/
+Medicines/
+Users/
+*.txt
